@@ -1,0 +1,7 @@
+{
+  "total_flights": 10000,
+  "avg_total_delay": 16.9363,
+  "avg_temperature": 7.745634291667023,
+  "max_delay": 1696.0,
+  "top_origin": "EWR"
+}
